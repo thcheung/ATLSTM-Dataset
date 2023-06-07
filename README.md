@@ -1,5 +1,3 @@
 # ATLSTM-Dataset
 
-Please kindly cite our work if you use our dataset in acedemic publication.
-
-https://ieeexplore.ieee.org/document/9306354
+The datasets of paper, "Simultaneous Fake News and Topic Classification via Auxiliary Task Learning," Asia-Pacific Signal and Information Processing Association Annual Summit and Conference".
